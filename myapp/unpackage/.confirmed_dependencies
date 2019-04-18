@@ -1,0 +1,9 @@
+{
+	"index.html": {
+		"refer": [
+			"new.html",
+			"login.html",
+			"login_my.html"
+		]
+	}
+}
